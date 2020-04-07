@@ -4,8 +4,8 @@
     <StructureAddress>1C61F80</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMax>11c</ZoomMax>
-    <FovCurrent>120/FovCurrent>
+    <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2020-2-19 - patch 5.2 (DX11)</LastUpdate>
+  <LastUpdate>2020-04-07 - patch 5.25 (DX11)</LastUpdate>
 </Root>
